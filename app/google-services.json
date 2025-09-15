@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183941075204",
+    "project_id": "study-group-finder-9d1e3",
+    "storage_bucket": "study-group-finder-9d1e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183941075204:android:2c50d0e662851434b8c051",
+        "android_client_info": {
+          "package_name": "com.example.studygroupfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183941075204-si5fknpjjbpt7daudm5bp64n3me9ir7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studygroupfinder",
+            "certificate_hash": "30276e7fb6af2f7442f91bf0009b09d1b6c02778"
+          }
+        },
+        {
+          "client_id": "183941075204-nb6ggrqqdsh56ger5tq2jvkqug4v0efg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjrUHrxmfwN0tLEmk7sbnfCTXHZFVM3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183941075204-nb6ggrqqdsh56ger5tq2jvkqug4v0efg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
